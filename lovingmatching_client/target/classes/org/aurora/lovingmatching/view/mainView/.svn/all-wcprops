@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/team13/!svn/ver/85/trunk/lovingmatching/target/classes/org/aurora/lovingmatching/view/mainView
+END
+LocalMainFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/team13/!svn/ver/85/trunk/lovingmatching/target/classes/org/aurora/lovingmatching/view/mainView/LocalMainFrame.class
+END
+LocalMainFrame$ExitMosListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/team13/!svn/ver/85/trunk/lovingmatching/target/classes/org/aurora/lovingmatching/view/mainView/LocalMainFrame$ExitMosListener.class
+END
+LocalMainFrame$DocuMosListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/team13/!svn/ver/85/trunk/lovingmatching/target/classes/org/aurora/lovingmatching/view/mainView/LocalMainFrame$DocuMosListener.class
+END
+LocalMainFrame$ReturnMosListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/team13/!svn/ver/85/trunk/lovingmatching/target/classes/org/aurora/lovingmatching/view/mainView/LocalMainFrame$ReturnMosListener.class
+END

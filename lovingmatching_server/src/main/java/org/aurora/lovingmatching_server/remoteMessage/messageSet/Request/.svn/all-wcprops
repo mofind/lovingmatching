@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request
+END
+MatchRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/team13/!svn/ver/116/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/MatchRequest.java
+END
+RoomRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/team13/!svn/ver/116/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/RoomRequest.java
+END
+PlayerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/PlayerRequest.java
+END
+TrendRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/TrendRequest.java
+END
+RecordRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/RecordRequest.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/team13/!svn/ver/116/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/Request.java
+END
+HistoryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/HistoryRequest.java
+END
+QuitRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteMessage/messageSet/Request/QuitRequest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/po
+END
+UserPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/team13/!svn/ver/132/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/po/UserPO.java
+END
+HitInfoPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/po/HitInfoPO.java
+END
+CoopHistoryPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/team13/!svn/ver/198/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/po/CoopHistoryPO.java
+END
+PartnerPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/team13/!svn/ver/80/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/po/PartnerPO.java
+END
+PKHistoryPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/team13/!svn/ver/80/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/po/PKHistoryPO.java
+END
+EnemyPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/team13/!svn/ver/80/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/po/EnemyPO.java
+END

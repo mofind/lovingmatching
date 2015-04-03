@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/team13/!svn/ver/110/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/controller/matchController
+END
+AbstractNetMatchController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/team13/!svn/ver/110/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/controller/matchController/AbstractNetMatchController.java
+END
+MatchController.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/team13/!svn/ver/110/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/controller/matchController/MatchController.java
+END
+AbstractMatchController.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/team13/!svn/ver/110/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/controller/matchController/AbstractMatchController.java
+END
+NetMatchController.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/team13/!svn/ver/110/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/controller/matchController/NetMatchController.java
+END

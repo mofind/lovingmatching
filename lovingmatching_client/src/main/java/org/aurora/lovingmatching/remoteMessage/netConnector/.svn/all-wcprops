@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/team13/!svn/ver/197/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/remoteMessage/netConnector
+END
+NetAssistant.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/team13/!svn/ver/194/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/remoteMessage/netConnector/NetAssistant.java
+END
+AbstractNetAssistant.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/team13/!svn/ver/123/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/remoteMessage/netConnector/AbstractNetAssistant.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/team13/!svn/ver/74/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/remoteMessage/netConnector/Transaction.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/team13/!svn/ver/197/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/remoteMessage/netConnector/Connector.java
+END
+NetController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/team13/!svn/ver/123/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/remoteMessage/netConnector/NetController.java
+END
+ReplyProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/team13/!svn/ver/194/trunk/lovingmatching/src/main/java/org/aurora/lovingmatching/remoteMessage/netConnector/ReplyProcessor.java
+END

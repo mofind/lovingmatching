@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/team13/!svn/ver/126/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/team13/!svn/ver/126/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/Room.java
+END
+RoomProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/team13/!svn/ver/116/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/RoomProcessor.java
+END
+RequestQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/team13/!svn/ver/111/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/RequestQueue.java
+END
+RoomCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/team13/!svn/ver/126/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/RoomCenter.java
+END
+MookRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/team13/!svn/ver/111/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/MookRoom.java
+END
+VSRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/team13/!svn/ver/111/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/VSRoom.java
+END
+VSRoomCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/team13/!svn/ver/126/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/VSRoomCenter.java
+END
+MockRequestQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/team13/!svn/ver/116/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/MockRequestQueue.java
+END
+RoomBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/team13/!svn/ver/111/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/RoomBase.java
+END
+StubRoomProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/team13/!svn/ver/116/trunk/lovingmatching_server/src/main/java/org/aurora/lovingmatching_server/remoteModel/roomModel/StubRoomProcessor.java
+END
